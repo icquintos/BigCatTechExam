@@ -12,3 +12,15 @@ C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigC
 C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.csproj.CopyComplete
 C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.dll
 C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.csprojAssemblyReference.cache
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.AssemblyInfoInputs.cache
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.AssemblyInfo.cs
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.dll
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\bin\Debug\netcoreapp2.1\BigCatTechExam.Repository.deps.json
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\bin\Debug\netcoreapp2.1\BigCatTechExam.Repository.dll
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\bin\Debug\netcoreapp2.1\BigCatTechExam.Repository.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\bin\Debug\netcoreapp2.1\BigCatTechExam.Models.dll
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\bin\Debug\netcoreapp2.1\BigCatTechExam.Models.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Repository\obj\Debug\netcoreapp2.1\BigCatTechExam.Repository.csproj.CopyComplete

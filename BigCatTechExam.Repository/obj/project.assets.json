@@ -208,9 +208,21 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "BigCatTechExam.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
         "compile": {
           "bin/placeholder/BigCatTechExam.Models.dll": {}
         },
@@ -692,6 +704,37 @@
         "netstandard.library.nuspec"
       ]
     },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "BigCatTechExam.Models/1.0.0": {
       "type": "project",
       "path": "../BigCatTechExam.Models/BigCatTechExam.Models.csproj",
@@ -701,7 +744,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "BigCatTechExam.Models >= 1.0.0",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "Newtonsoft.Json >= 12.0.3"
     ]
   },
   "packageFolders": {
@@ -711,11 +755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\BigCatTechExam.Web\\BigCatTechExam.Repository\\BigCatTechExam.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\Test\\BigCatTechExam\\BigCatTechExam.Repository\\BigCatTechExam.Repository.csproj",
       "projectName": "BigCatTechExam.Repository",
-      "projectPath": "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\BigCatTechExam.Web\\BigCatTechExam.Repository\\BigCatTechExam.Repository.csproj",
+      "projectPath": "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\Test\\BigCatTechExam\\BigCatTechExam.Repository\\BigCatTechExam.Repository.csproj",
       "packagesPath": "C:\\Users\\ICQUINTOS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\BigCatTechExam.Web\\BigCatTechExam.Repository\\obj\\",
+      "outputPath": "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\Test\\BigCatTechExam\\BigCatTechExam.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -734,8 +778,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\BigCatTechExam.Web\\BigCatTechExam.Models\\BigCatTechExam.Models.csproj": {
-              "projectPath": "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\BigCatTechExam.Web\\BigCatTechExam.Models\\BigCatTechExam.Models.csproj"
+            "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\Test\\BigCatTechExam\\BigCatTechExam.Models\\BigCatTechExam.Models.csproj": {
+              "projectPath": "C:\\Users\\ICQUINTOS\\Documents\\Visual Studio 2017\\Projects\\Test\\BigCatTechExam\\BigCatTechExam.Models\\BigCatTechExam.Models.csproj"
             }
           }
         }
@@ -754,6 +798,10 @@
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
           }
         },
         "imports": [

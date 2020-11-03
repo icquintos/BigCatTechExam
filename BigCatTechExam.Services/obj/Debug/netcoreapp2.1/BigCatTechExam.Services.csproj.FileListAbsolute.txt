@@ -14,3 +14,17 @@ C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigC
 C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.csproj.CopyComplete
 C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.dll
 C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\bin\Debug\netcoreapp2.1\BigCatTechExam.Services.deps.json
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\bin\Debug\netcoreapp2.1\BigCatTechExam.Services.dll
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\bin\Debug\netcoreapp2.1\BigCatTechExam.Services.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\bin\Debug\netcoreapp2.1\BigCatTechExam.Models.dll
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\bin\Debug\netcoreapp2.1\BigCatTechExam.Repository.dll
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\bin\Debug\netcoreapp2.1\BigCatTechExam.Repository.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\bin\Debug\netcoreapp2.1\BigCatTechExam.Models.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.csprojAssemblyReference.cache
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.csproj.CoreCompileInputs.cache
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.AssemblyInfoInputs.cache
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.AssemblyInfo.cs
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.csproj.CopyComplete
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.dll
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\Test\BigCatTechExam\BigCatTechExam.Services\obj\Debug\netcoreapp2.1\BigCatTechExam.Services.pdb
