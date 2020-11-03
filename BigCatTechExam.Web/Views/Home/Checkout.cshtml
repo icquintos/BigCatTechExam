@@ -1,0 +1,18 @@
+﻿@model BikeViewModel;
+
+@{
+    ViewData["Title"] = "Checkout";
+    ViewData["IsAuthenticated"] = "true";
+}
+<h2>@ViewData["Title"]</h2>
+
+
+@using (Html.BeginForm("Checkout", "Home", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Bike.id)
+    //@Html.TextBoxFor(m => m.Bike.CustomerName, new { @class = "form-control"})
+    <h2>Customer Name: </h2>
+    @Html.EditorFor(m => m.Bike.CustomerName, null, "customerName");
+
+    <input type="submit" value="Submit" />
+}

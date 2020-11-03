@@ -1,0 +1,9 @@
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Models\bin\Debug\netcoreapp2.1\BigCatTechExam.Models.deps.json
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Models\bin\Debug\netcoreapp2.1\BigCatTechExam.Models.dll
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Models\bin\Debug\netcoreapp2.1\BigCatTechExam.Models.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Models\obj\Debug\netcoreapp2.1\BigCatTechExam.Models.csproj.CoreCompileInputs.cache
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Models\obj\Debug\netcoreapp2.1\BigCatTechExam.Models.AssemblyInfoInputs.cache
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Models\obj\Debug\netcoreapp2.1\BigCatTechExam.Models.AssemblyInfo.cs
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Models\obj\Debug\netcoreapp2.1\BigCatTechExam.Models.dll
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Models\obj\Debug\netcoreapp2.1\BigCatTechExam.Models.pdb
+C:\Users\ICQUINTOS\Documents\Visual Studio 2017\Projects\BigCatTechExam.Web\BigCatTechExam.Models\obj\Debug\netcoreapp2.1\BigCatTechExam.Models.csprojAssemblyReference.cache

@@ -1,0 +1,49 @@
+{
+  "account":
+    {
+      "UserName": "icquintos",
+      "Password": "Test123!"
+    },
+  "bikes": [
+    {
+      "id": 1,
+      "CustomerName": "JJ",
+      "CheckOutTime": "2020-11-04T01:54:45.1065253+08:00",
+      "CheckInTime": "2020-11-04T02:50:03.7485081+08:00",
+      "TotalTimeSpent": "00:55:18",
+      "DateModified": "2020-11-04T02:50:03.7485081+08:00"
+    },
+    {
+      "id": 2,
+      "CustomerName": "John Doess",
+      "CheckOutTime": "2020-11-04T01:54:17.5552102+08:00",
+      "CheckInTime": "2020-11-04T01:54:28.1542603+08:00",
+      "TotalTimeSpent": "00:00:10",
+      "DateModified": "2020-11-04T01:54:28.1542603+08:00"
+    },
+    {
+      "id": 3,
+      "CustomerName": "TEst",
+      "CheckOutTime": "2020-11-04T02:03:18.4020074+08:00",
+      "CheckInTime": "2020-11-04T02:03:29.3381885+08:00",
+      "TotalTimeSpent": "00:00:10",
+      "DateModified": "2020-11-04T02:03:29.3381885+08:00"
+    },
+    {
+      "id": 4,
+      "CustomerName": "Test data 2",
+      "CheckOutTime": "2020-11-04T02:07:24.3584908+08:00",
+      "CheckInTime": "2020-11-04T02:08:38.2197795+08:00",
+      "TotalTimeSpent": "00:01:13",
+      "DateModified": "2020-11-04T02:08:38.2197795+08:00"
+    },
+    {
+      "id": 5,
+      "CustomerName": "IC quintos",
+      "CheckOutTime": "2020-11-04T02:08:51.6361415+08:00",
+      "CheckInTime": "2020-11-04T02:09:01.590025+08:00",
+      "TotalTimeSpent": "00:00:09",
+      "DateModified": "2020-11-04T02:09:01.590025+08:00"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿@model SiteUserViewModel;
+@{
+    ViewData["Title"] = "Index";
+    ViewData["IsAuthenticated"] = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Login", "Admin", FormMethod.Post))
+{
+    <h2>Username: </h2>
+    @Html.TextBoxFor(m => m.UserName);
+    //@Html.TextBoxFor(m => m.Bike.CustomerName, new { @class = "form-control"})
+    <h2>Customer Name: </h2>
+    @Html.PasswordFor(m => m.Password);
+
+    <input type="submit" value="Submit" />
+}

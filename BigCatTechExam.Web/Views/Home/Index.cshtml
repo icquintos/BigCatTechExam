@@ -1,0 +1,48 @@
+﻿@model BikeListViewModel;
+
+@{
+    ViewData["Title"] = "Home Page";
+    ViewData["IsAuthenticated"] = "true";
+}
+
+<div class="container">
+    <h2>Bike List</h2>
+    <input type="button" title="Add" value="Add" onclick="location.href='@Url.Action("Checkout", "home")'" />
+    <br />
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Customer Name</th>
+                <th>Checkout Time</th>
+                <th>Checkin Time</th>
+                <th>Total Time Spent</th>
+                <th>Date Modified</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.BikeList)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.id)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CustomerName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CheckOutTime)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CheckInTime)</td>
+                    <td>@Html.DisplayFor(modelItem => item.TotalTimeSpent)</td>
+                    <td>@Html.DisplayFor(modelItem => item.DateModified)</td>
+                    <td>
+                        @if (string.IsNullOrEmpty(item.CheckInTime.ToString()))
+                        {
+                            <input type="button" title="Checkin" value="Checkin" onclick="location.href='@Url.Action("Checkin", "home", new { id = item.id })'" />
+                        }
+                        else
+                        {
+                            <input type="button" title="Checkout" value="Checkout" onclick="location.href='@Url.Action("Checkout", "home", new { id = item.id })'" />
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
